@@ -1,7 +1,7 @@
 /*
 Author  : Mohan Singh Bomrel
 Date    :2015/06/07
-Program : Implementing Exception Handling uisng time class
+Program : Implementing Exception Handling using time class
 */
 #include <iostream>
 #include "MyTime.h"
